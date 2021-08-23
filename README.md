@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrijneveld
+- 👀 I’m interested in PHP, Vue JS, Laravel, Symfony and Shopware 6.
+- 🌱 I’m currently learning Symfony
+- 💞️ I’m looking to collaborate on Symfony projects
+- 📫 How to reach me: mick.rijneveld@live.nl
